@@ -1,0 +1,392 @@
+[2023-09-01T20:35:17.262210 34210] === CCACHE master.971f1183 STARTED =========================================
+[2023-09-01T20:35:17.262223 34208] === CCACHE master.971f1183 STARTED =========================================
+[2023-09-01T20:35:17.262232 34207] === CCACHE master.971f1183 STARTED =========================================
+[2023-09-01T20:35:17.262240 34206] === CCACHE master.971f1183 STARTED =========================================
+[2023-09-01T20:35:17.262295 34209] === CCACHE master.971f1183 STARTED =========================================
+[2023-09-01T20:35:17.262223 34208] Config: (default) absolute_paths_in_stderr = false
+[2023-09-01T20:35:17.262223 34208] Config: (default) base_dir = 
+[2023-09-01T20:35:17.262223 34208] Config: (environment) cache_dir = /Users/chikachan/Library/Caches/Nuitka/ccache
+[2023-09-01T20:35:17.262223 34208] Config: (default) compiler = 
+[2023-09-01T20:35:17.262223 34208] Config: (default) compiler_check = mtime
+[2023-09-01T20:35:17.262223 34208] Config: (default) compiler_type = auto
+[2023-09-01T20:35:17.262223 34208] Config: (default) compression = true
+[2023-09-01T20:35:17.262223 34208] Config: (default) compression_level = 0
+[2023-09-01T20:35:17.262223 34208] Config: (default) cpp_extension = 
+[2023-09-01T20:35:17.262223 34208] Config: (default) debug = false
+[2023-09-01T20:35:17.262223 34208] Config: (default) debug_dir = 
+[2023-09-01T20:35:17.262223 34208] Config: (default) depend_mode = false
+[2023-09-01T20:35:17.262223 34208] Config: (default) direct_mode = true
+[2023-09-01T20:35:17.262223 34208] Config: (default) disable = false
+[2023-09-01T20:35:17.262223 34208] Config: (default) extra_files_to_hash = 
+[2023-09-01T20:35:17.262223 34208] Config: (default) file_clone = false
+[2023-09-01T20:35:17.262223 34208] Config: (default) hard_link = false
+[2023-09-01T20:35:17.262223 34208] Config: (default) hash_dir = true
+[2023-09-01T20:35:17.262223 34208] Config: (default) ignore_headers_in_manifest = 
+[2023-09-01T20:35:17.262223 34208] Config: (default) ignore_options = 
+[2023-09-01T20:35:17.262223 34208] Config: (default) inode_cache = false
+[2023-09-01T20:35:17.262223 34208] Config: (default) keep_comments_cpp = false
+[2023-09-01T20:35:17.262223 34208] Config: (default) limit_multiple = 0.8
+[2023-09-01T20:35:17.262223 34208] Config: (environment) log_file = /Users/chikachan/Development/nitka_test/main.build/ccache-34203.txt
+[2023-09-01T20:35:17.262223 34208] Config: (default) max_files = 0
+[2023-09-01T20:35:17.262223 34208] Config: (default) max_size = 5.0G
+[2023-09-01T20:35:17.262223 34208] Config: (default) path = 
+[2023-09-01T20:35:17.262223 34208] Config: (default) pch_external_checksum = false
+[2023-09-01T20:35:17.262223 34208] Config: (default) prefix_command = 
+[2023-09-01T20:35:17.262223 34208] Config: (default) prefix_command_cpp = 
+[2023-09-01T20:35:17.262223 34208] Config: (default) read_only = false
+[2023-09-01T20:35:17.262223 34208] Config: (default) read_only_direct = false
+[2023-09-01T20:35:17.262223 34208] Config: (default) recache = false
+[2023-09-01T20:35:17.262223 34208] Config: (default) run_second_cpp = true
+[2023-09-01T20:35:17.262223 34208] Config: (environment) sloppiness = include_file_mtime, include_file_ctime
+[2023-09-01T20:35:17.262223 34208] Config: (default) stats = true
+[2023-09-01T20:35:17.262223 34208] Config: (default) temporary_dir = /Users/chikachan/Library/Caches/Nuitka/ccache/tmp
+[2023-09-01T20:35:17.262223 34208] Config: (default) umask = 
+[2023-09-01T20:35:17.262681 34208] Command line: /Users/chikachan/Library/Caches/Nuitka/downloads/ccache/v4.2.1/ccache /usr/bin/clang -o __loader.o -c -std=c11 -fvisibility=hidden -fwrapv -pipe -w -fvisibility=hidden -fvisibility-inlines-hidden --target=arm64-apple-macos10.9 -O3 -D_XOPEN_SOURCE -D__NUITKA_NO_ASSERT__ -D_NUITKA_STANDALONE -D_NUITKA_ONEFILE_MODE -D_NUITKA_ONEFILE_TEMP_BOOL -D_NUITKA_CONSTANTS_FROM_MACOS_SECTION -D_NUITKA_FROZEN=141 -D_NUITKA_EXE -I/Library/Frameworks/Python.framework/Versions/3.11/include/python3.11 -I. -I/Users/chikachan/Development/nitka_test/venv/lib/python3.11/site-packages/nuitka/build/include -I/Users/chikachan/Development/nitka_test/venv/lib/python3.11/site-packages/nuitka/build/static_src __loader.c
+[2023-09-01T20:35:17.262240 34206] Config: (default) absolute_paths_in_stderr = false
+[2023-09-01T20:35:17.262240 34206] Config: (default) base_dir = 
+[2023-09-01T20:35:17.262240 34206] Config: (environment) cache_dir = /Users/chikachan/Library/Caches/Nuitka/ccache
+[2023-09-01T20:35:17.262240 34206] Config: (default) compiler = 
+[2023-09-01T20:35:17.262240 34206] Config: (default) compiler_check = mtime
+[2023-09-01T20:35:17.262240 34206] Config: (default) compiler_type = auto
+[2023-09-01T20:35:17.262240 34206] Config: (default) compression = true
+[2023-09-01T20:35:17.262240 34206] Config: (default) compression_level = 0
+[2023-09-01T20:35:17.262240 34206] Config: (default) cpp_extension = 
+[2023-09-01T20:35:17.262240 34206] Config: (default) debug = false
+[2023-09-01T20:35:17.262240 34206] Config: (default) debug_dir = 
+[2023-09-01T20:35:17.262240 34206] Config: (default) depend_mode = false
+[2023-09-01T20:35:17.262240 34206] Config: (default) direct_mode = true
+[2023-09-01T20:35:17.262240 34206] Config: (default) disable = false
+[2023-09-01T20:35:17.262240 34206] Config: (default) extra_files_to_hash = 
+[2023-09-01T20:35:17.262240 34206] Config: (default) file_clone = false
+[2023-09-01T20:35:17.262240 34206] Config: (default) hard_link = false
+[2023-09-01T20:35:17.262240 34206] Config: (default) hash_dir = true
+[2023-09-01T20:35:17.262240 34206] Config: (default) ignore_headers_in_manifest = 
+[2023-09-01T20:35:17.262240 34206] Config: (default) ignore_options = 
+[2023-09-01T20:35:17.262240 34206] Config: (default) inode_cache = false
+[2023-09-01T20:35:17.262240 34206] Config: (default) keep_comments_cpp = false
+[2023-09-01T20:35:17.262240 34206] Config: (default) limit_multiple = 0.8
+[2023-09-01T20:35:17.262240 34206] Config: (environment) log_file = /Users/chikachan/Development/nitka_test/main.build/ccache-34203.txt
+[2023-09-01T20:35:17.262240 34206] Config: (default) max_files = 0
+[2023-09-01T20:35:17.262240 34206] Config: (default) max_size = 5.0G
+[2023-09-01T20:35:17.262240 34206] Config: (default) path = 
+[2023-09-01T20:35:17.262240 34206] Config: (default) pch_external_checksum = false
+[2023-09-01T20:35:17.262240 34206] Config: (default) prefix_command = 
+[2023-09-01T20:35:17.262240 34206] Config: (default) prefix_command_cpp = 
+[2023-09-01T20:35:17.262240 34206] Config: (default) read_only = false
+[2023-09-01T20:35:17.262240 34206] Config: (default) read_only_direct = false
+[2023-09-01T20:35:17.262240 34206] Config: (default) recache = false
+[2023-09-01T20:35:17.262240 34206] Config: (default) run_second_cpp = true
+[2023-09-01T20:35:17.262240 34206] Config: (environment) sloppiness = include_file_mtime, include_file_ctime
+[2023-09-01T20:35:17.262240 34206] Config: (default) stats = true
+[2023-09-01T20:35:17.262240 34206] Config: (default) temporary_dir = /Users/chikachan/Library/Caches/Nuitka/ccache/tmp
+[2023-09-01T20:35:17.262240 34206] Config: (default) umask = 
+[2023-09-01T20:35:17.262683 34206] Command line: /Users/chikachan/Library/Caches/Nuitka/downloads/ccache/v4.2.1/ccache /usr/bin/clang -o __constants.o -c -std=c11 -fvisibility=hidden -fwrapv -pipe -w -fvisibility=hidden -fvisibility-inlines-hidden --target=arm64-apple-macos10.9 -O3 -D_XOPEN_SOURCE -D__NUITKA_NO_ASSERT__ -D_NUITKA_STANDALONE -D_NUITKA_ONEFILE_MODE -D_NUITKA_ONEFILE_TEMP_BOOL -D_NUITKA_CONSTANTS_FROM_MACOS_SECTION -D_NUITKA_FROZEN=141 -D_NUITKA_EXE -I/Library/Frameworks/Python.framework/Versions/3.11/include/python3.11 -I. -I/Users/chikachan/Development/nitka_test/venv/lib/python3.11/site-packages/nuitka/build/include -I/Users/chikachan/Development/nitka_test/venv/lib/python3.11/site-packages/nuitka/build/static_src __constants.c
+[2023-09-01T20:35:17.262295 34209] Config: (default) absolute_paths_in_stderr = false
+[2023-09-01T20:35:17.262295 34209] Config: (default) base_dir = 
+[2023-09-01T20:35:17.262295 34209] Config: (environment) cache_dir = /Users/chikachan/Library/Caches/Nuitka/ccache
+[2023-09-01T20:35:17.262295 34209] Config: (default) compiler = 
+[2023-09-01T20:35:17.262295 34209] Config: (default) compiler_check = mtime
+[2023-09-01T20:35:17.262295 34209] Config: (default) compiler_type = auto
+[2023-09-01T20:35:17.262295 34209] Config: (default) compression = true
+[2023-09-01T20:35:17.262295 34209] Config: (default) compression_level = 0
+[2023-09-01T20:35:17.262295 34209] Config: (default) cpp_extension = 
+[2023-09-01T20:35:17.262295 34209] Config: (default) debug = false
+[2023-09-01T20:35:17.262295 34209] Config: (default) debug_dir = 
+[2023-09-01T20:35:17.262295 34209] Config: (default) depend_mode = false
+[2023-09-01T20:35:17.262295 34209] Config: (default) direct_mode = true
+[2023-09-01T20:35:17.262295 34209] Config: (default) disable = false
+[2023-09-01T20:35:17.262295 34209] Config: (default) extra_files_to_hash = 
+[2023-09-01T20:35:17.262295 34209] Config: (default) file_clone = false
+[2023-09-01T20:35:17.262295 34209] Config: (default) hard_link = false
+[2023-09-01T20:35:17.262295 34209] Config: (default) hash_dir = true
+[2023-09-01T20:35:17.262295 34209] Config: (default) ignore_headers_in_manifest = 
+[2023-09-01T20:35:17.262295 34209] Config: (default) ignore_options = 
+[2023-09-01T20:35:17.262295 34209] Config: (default) inode_cache = false
+[2023-09-01T20:35:17.262295 34209] Config: (default) keep_comments_cpp = false
+[2023-09-01T20:35:17.262295 34209] Config: (default) limit_multiple = 0.8
+[2023-09-01T20:35:17.262295 34209] Config: (environment) log_file = /Users/chikachan/Development/nitka_test/main.build/ccache-34203.txt
+[2023-09-01T20:35:17.262295 34209] Config: (default) max_files = 0
+[2023-09-01T20:35:17.262295 34209] Config: (default) max_size = 5.0G
+[2023-09-01T20:35:17.262295 34209] Config: (default) path = 
+[2023-09-01T20:35:17.262295 34209] Config: (default) pch_external_checksum = false
+[2023-09-01T20:35:17.262295 34209] Config: (default) prefix_command = 
+[2023-09-01T20:35:17.262295 34209] Config: (default) prefix_command_cpp = 
+[2023-09-01T20:35:17.262295 34209] Config: (default) read_only = false
+[2023-09-01T20:35:17.262295 34209] Config: (default) read_only_direct = false
+[2023-09-01T20:35:17.262295 34209] Config: (default) recache = false
+[2023-09-01T20:35:17.262295 34209] Config: (default) run_second_cpp = true
+[2023-09-01T20:35:17.262295 34209] Config: (environment) sloppiness = include_file_mtime, include_file_ctime
+[2023-09-01T20:35:17.262295 34209] Config: (default) stats = true
+[2023-09-01T20:35:17.262295 34209] Config: (default) temporary_dir = /Users/chikachan/Library/Caches/Nuitka/ccache/tmp
+[2023-09-01T20:35:17.262295 34209] Config: (default) umask = 
+[2023-09-01T20:35:17.262686 34209] Command line: /Users/chikachan/Library/Caches/Nuitka/downloads/ccache/v4.2.1/ccache /usr/bin/clang -o module.__main__.o -c -std=c11 -fvisibility=hidden -fwrapv -pipe -w -fvisibility=hidden -fvisibility-inlines-hidden --target=arm64-apple-macos10.9 -O3 -D_XOPEN_SOURCE -D__NUITKA_NO_ASSERT__ -D_NUITKA_STANDALONE -D_NUITKA_ONEFILE_MODE -D_NUITKA_ONEFILE_TEMP_BOOL -D_NUITKA_CONSTANTS_FROM_MACOS_SECTION -D_NUITKA_FROZEN=141 -D_NUITKA_EXE -I/Library/Frameworks/Python.framework/Versions/3.11/include/python3.11 -I. -I/Users/chikachan/Development/nitka_test/venv/lib/python3.11/site-packages/nuitka/build/include -I/Users/chikachan/Development/nitka_test/venv/lib/python3.11/site-packages/nuitka/build/static_src module.__main__.c
+[2023-09-01T20:35:17.262232 34207] Config: (default) absolute_paths_in_stderr = false
+[2023-09-01T20:35:17.262232 34207] Config: (default) base_dir = 
+[2023-09-01T20:35:17.262232 34207] Config: (environment) cache_dir = /Users/chikachan/Library/Caches/Nuitka/ccache
+[2023-09-01T20:35:17.262232 34207] Config: (default) compiler = 
+[2023-09-01T20:35:17.262232 34207] Config: (default) compiler_check = mtime
+[2023-09-01T20:35:17.262232 34207] Config: (default) compiler_type = auto
+[2023-09-01T20:35:17.262232 34207] Config: (default) compression = true
+[2023-09-01T20:35:17.262232 34207] Config: (default) compression_level = 0
+[2023-09-01T20:35:17.262232 34207] Config: (default) cpp_extension = 
+[2023-09-01T20:35:17.262232 34207] Config: (default) debug = false
+[2023-09-01T20:35:17.262232 34207] Config: (default) debug_dir = 
+[2023-09-01T20:35:17.262232 34207] Config: (default) depend_mode = false
+[2023-09-01T20:35:17.262232 34207] Config: (default) direct_mode = true
+[2023-09-01T20:35:17.262232 34207] Config: (default) disable = false
+[2023-09-01T20:35:17.262232 34207] Config: (default) extra_files_to_hash = 
+[2023-09-01T20:35:17.262232 34207] Config: (default) file_clone = false
+[2023-09-01T20:35:17.262232 34207] Config: (default) hard_link = false
+[2023-09-01T20:35:17.262232 34207] Config: (default) hash_dir = true
+[2023-09-01T20:35:17.262232 34207] Config: (default) ignore_headers_in_manifest = 
+[2023-09-01T20:35:17.262232 34207] Config: (default) ignore_options = 
+[2023-09-01T20:35:17.262232 34207] Config: (default) inode_cache = false
+[2023-09-01T20:35:17.262232 34207] Config: (default) keep_comments_cpp = false
+[2023-09-01T20:35:17.262232 34207] Config: (default) limit_multiple = 0.8
+[2023-09-01T20:35:17.262232 34207] Config: (environment) log_file = /Users/chikachan/Development/nitka_test/main.build/ccache-34203.txt
+[2023-09-01T20:35:17.262232 34207] Config: (default) max_files = 0
+[2023-09-01T20:35:17.262232 34207] Config: (default) max_size = 5.0G
+[2023-09-01T20:35:17.262232 34207] Config: (default) path = 
+[2023-09-01T20:35:17.262232 34207] Config: (default) pch_external_checksum = false
+[2023-09-01T20:35:17.262232 34207] Config: (default) prefix_command = 
+[2023-09-01T20:35:17.262232 34207] Config: (default) prefix_command_cpp = 
+[2023-09-01T20:35:17.262232 34207] Config: (default) read_only = false
+[2023-09-01T20:35:17.262232 34207] Config: (default) read_only_direct = false
+[2023-09-01T20:35:17.262232 34207] Config: (default) recache = false
+[2023-09-01T20:35:17.262232 34207] Config: (default) run_second_cpp = true
+[2023-09-01T20:35:17.262232 34207] Config: (environment) sloppiness = include_file_mtime, include_file_ctime
+[2023-09-01T20:35:17.262232 34207] Config: (default) stats = true
+[2023-09-01T20:35:17.262232 34207] Config: (default) temporary_dir = /Users/chikachan/Library/Caches/Nuitka/ccache/tmp
+[2023-09-01T20:35:17.262232 34207] Config: (default) umask = 
+[2023-09-01T20:35:17.262684 34207] Command line: /Users/chikachan/Library/Caches/Nuitka/downloads/ccache/v4.2.1/ccache /usr/bin/clang -o __helpers.o -c -std=c11 -fvisibility=hidden -fwrapv -pipe -w -fvisibility=hidden -fvisibility-inlines-hidden --target=arm64-apple-macos10.9 -O3 -D_XOPEN_SOURCE -D__NUITKA_NO_ASSERT__ -D_NUITKA_STANDALONE -D_NUITKA_ONEFILE_MODE -D_NUITKA_ONEFILE_TEMP_BOOL -D_NUITKA_CONSTANTS_FROM_MACOS_SECTION -D_NUITKA_FROZEN=141 -D_NUITKA_EXE -I/Library/Frameworks/Python.framework/Versions/3.11/include/python3.11 -I. -I/Users/chikachan/Development/nitka_test/venv/lib/python3.11/site-packages/nuitka/build/include -I/Users/chikachan/Development/nitka_test/venv/lib/python3.11/site-packages/nuitka/build/static_src __helpers.c
+[2023-09-01T20:35:17.262210 34210] Config: (default) absolute_paths_in_stderr = false
+[2023-09-01T20:35:17.262210 34210] Config: (default) base_dir = 
+[2023-09-01T20:35:17.262210 34210] Config: (environment) cache_dir = /Users/chikachan/Library/Caches/Nuitka/ccache
+[2023-09-01T20:35:17.262210 34210] Config: (default) compiler = 
+[2023-09-01T20:35:17.262210 34210] Config: (default) compiler_check = mtime
+[2023-09-01T20:35:17.262210 34210] Config: (default) compiler_type = auto
+[2023-09-01T20:35:17.262210 34210] Config: (default) compression = true
+[2023-09-01T20:35:17.262210 34210] Config: (default) compression_level = 0
+[2023-09-01T20:35:17.262210 34210] Config: (default) cpp_extension = 
+[2023-09-01T20:35:17.262210 34210] Config: (default) debug = false
+[2023-09-01T20:35:17.262210 34210] Config: (default) debug_dir = 
+[2023-09-01T20:35:17.262210 34210] Config: (default) depend_mode = false
+[2023-09-01T20:35:17.262210 34210] Config: (default) direct_mode = true
+[2023-09-01T20:35:17.262210 34210] Config: (default) disable = false
+[2023-09-01T20:35:17.262210 34210] Config: (default) extra_files_to_hash = 
+[2023-09-01T20:35:17.262210 34210] Config: (default) file_clone = false
+[2023-09-01T20:35:17.262210 34210] Config: (default) hard_link = false
+[2023-09-01T20:35:17.262210 34210] Config: (default) hash_dir = true
+[2023-09-01T20:35:17.262210 34210] Config: (default) ignore_headers_in_manifest = 
+[2023-09-01T20:35:17.262210 34210] Config: (default) ignore_options = 
+[2023-09-01T20:35:17.262210 34210] Config: (default) inode_cache = false
+[2023-09-01T20:35:17.262210 34210] Config: (default) keep_comments_cpp = false
+[2023-09-01T20:35:17.262210 34210] Config: (default) limit_multiple = 0.8
+[2023-09-01T20:35:17.262210 34210] Config: (environment) log_file = /Users/chikachan/Development/nitka_test/main.build/ccache-34203.txt
+[2023-09-01T20:35:17.262210 34210] Config: (default) max_files = 0
+[2023-09-01T20:35:17.262210 34210] Config: (default) max_size = 5.0G
+[2023-09-01T20:35:17.262210 34210] Config: (default) path = 
+[2023-09-01T20:35:17.262210 34210] Config: (default) pch_external_checksum = false
+[2023-09-01T20:35:17.262210 34210] Config: (default) prefix_command = 
+[2023-09-01T20:35:17.262210 34210] Config: (default) prefix_command_cpp = 
+[2023-09-01T20:35:17.262210 34210] Config: (default) read_only = false
+[2023-09-01T20:35:17.262210 34210] Config: (default) read_only_direct = false
+[2023-09-01T20:35:17.262210 34210] Config: (default) recache = false
+[2023-09-01T20:35:17.262210 34210] Config: (default) run_second_cpp = true
+[2023-09-01T20:35:17.262210 34210] Config: (environment) sloppiness = include_file_mtime, include_file_ctime
+[2023-09-01T20:35:17.262210 34210] Config: (default) stats = true
+[2023-09-01T20:35:17.262210 34210] Config: (default) temporary_dir = /Users/chikachan/Library/Caches/Nuitka/ccache/tmp
+[2023-09-01T20:35:17.262210 34210] Config: (default) umask = 
+[2023-09-01T20:35:17.262683 34210] Command line: /Users/chikachan/Library/Caches/Nuitka/downloads/ccache/v4.2.1/ccache /usr/bin/clang -o module.tkinter-preLoad.o -c -std=c11 -fvisibility=hidden -fwrapv -pipe -w -fvisibility=hidden -fvisibility-inlines-hidden --target=arm64-apple-macos10.9 -O3 -D_XOPEN_SOURCE -D__NUITKA_NO_ASSERT__ -D_NUITKA_STANDALONE -D_NUITKA_ONEFILE_MODE -D_NUITKA_ONEFILE_TEMP_BOOL -D_NUITKA_CONSTANTS_FROM_MACOS_SECTION -D_NUITKA_FROZEN=141 -D_NUITKA_EXE -I/Library/Frameworks/Python.framework/Versions/3.11/include/python3.11 -I. -I/Users/chikachan/Development/nitka_test/venv/lib/python3.11/site-packages/nuitka/build/include -I/Users/chikachan/Development/nitka_test/venv/lib/python3.11/site-packages/nuitka/build/static_src module.tkinter-preLoad.c
+[2023-09-01T20:35:17.262759 34207] Hostname: MacBookPro.local
+[2023-09-01T20:35:17.262725 34206] Hostname: MacBookPro.local
+[2023-09-01T20:35:17.262747 34209] Hostname: MacBookPro.local
+[2023-09-01T20:35:17.262769 34207] Working directory: /Users/chikachan/Development/nitka_test/main.build
+[2023-09-01T20:35:17.262717 34208] Hostname: MacBookPro.local
+[2023-09-01T20:35:17.262777 34210] Hostname: MacBookPro.local
+[2023-09-01T20:35:17.262780 34206] Working directory: /Users/chikachan/Development/nitka_test/main.build
+[2023-09-01T20:35:17.262777 34209] Working directory: /Users/chikachan/Development/nitka_test/main.build
+[2023-09-01T20:35:17.262783 34208] Working directory: /Users/chikachan/Development/nitka_test/main.build
+[2023-09-01T20:35:17.262789 34210] Working directory: /Users/chikachan/Development/nitka_test/main.build
+[2023-09-01T20:35:17.262800 34209] Compiler type: clang
+[2023-09-01T20:35:17.262782 34207] Compiler type: clang
+[2023-09-01T20:35:17.262802 34208] Compiler type: clang
+[2023-09-01T20:35:17.262809 34210] Compiler type: clang
+[2023-09-01T20:35:17.262797 34206] Compiler type: clang
+[2023-09-01T20:35:17.263189 34209] Source file: module.__main__.c
+[2023-09-01T20:35:17.263188 34206] Source file: __constants.c
+[2023-09-01T20:35:17.263191 34210] Source file: module.tkinter-preLoad.c
+[2023-09-01T20:35:17.263205 34206] Object file: __constants.o
+[2023-09-01T20:35:17.263201 34209] Object file: module.__main__.o
+[2023-09-01T20:35:17.263210 34210] Object file: module.tkinter-preLoad.o
+[2023-09-01T20:35:17.263194 34208] Source file: __loader.c
+[2023-09-01T20:35:17.263194 34207] Source file: __helpers.c
+[2023-09-01T20:35:17.263238 34208] Object file: __loader.o
+[2023-09-01T20:35:17.263241 34207] Object file: __helpers.o
+[2023-09-01T20:35:17.263755 34209] Trying direct lookup
+[2023-09-01T20:35:17.263755 34206] Trying direct lookup
+[2023-09-01T20:35:17.263761 34208] Trying direct lookup
+[2023-09-01T20:35:17.263757 34207] Trying direct lookup
+[2023-09-01T20:35:17.263769 34210] Trying direct lookup
+[2023-09-01T20:35:17.265282 34208] Looking for result name in /Users/chikachan/Library/Caches/Nuitka/ccache/b/8/a6vp3tci7n622lmskjl0qun5lltnifiM
+[2023-09-01T20:35:17.265282 34210] Looking for result name in /Users/chikachan/Library/Caches/Nuitka/ccache/b/d/ebaugaf24vbbamk4gq7l9b7du11ipp2M
+[2023-09-01T20:35:17.265331 34207] Looking for result name in /Users/chikachan/Library/Caches/Nuitka/ccache/9/a/ccui79g42kok180pkcc6q4l1ijecgugM
+[2023-09-01T20:35:17.265331 34206] Looking for result name in /Users/chikachan/Library/Caches/Nuitka/ccache/1/c/fdh3ghd9fpnqa6oigkl0v91vfpk4vmsM
+[2023-09-01T20:35:17.265428 34209] Looking for result name in /Users/chikachan/Library/Caches/Nuitka/ccache/9/2/7ai281pjjcm6qtqalkhmlltngf2uiouM
+[2023-09-01T20:35:17.268261 34211] === CCACHE master.971f1183 STARTED =========================================
+[2023-09-01T20:35:17.268261 34211] Config: (default) absolute_paths_in_stderr = false
+[2023-09-01T20:35:17.268261 34211] Config: (default) base_dir = 
+[2023-09-01T20:35:17.268261 34211] Config: (environment) cache_dir = /Users/chikachan/Library/Caches/Nuitka/ccache
+[2023-09-01T20:35:17.268261 34211] Config: (default) compiler = 
+[2023-09-01T20:35:17.268261 34211] Config: (default) compiler_check = mtime
+[2023-09-01T20:35:17.268261 34211] Config: (default) compiler_type = auto
+[2023-09-01T20:35:17.268261 34211] Config: (default) compression = true
+[2023-09-01T20:35:17.268261 34211] Config: (default) compression_level = 0
+[2023-09-01T20:35:17.268261 34211] Config: (default) cpp_extension = 
+[2023-09-01T20:35:17.268261 34211] Config: (default) debug = false
+[2023-09-01T20:35:17.268261 34211] Config: (default) debug_dir = 
+[2023-09-01T20:35:17.268261 34211] Config: (default) depend_mode = false
+[2023-09-01T20:35:17.268261 34211] Config: (default) direct_mode = true
+[2023-09-01T20:35:17.268261 34211] Config: (default) disable = false
+[2023-09-01T20:35:17.268261 34211] Config: (default) extra_files_to_hash = 
+[2023-09-01T20:35:17.268261 34211] Config: (default) file_clone = false
+[2023-09-01T20:35:17.268261 34211] Config: (default) hard_link = false
+[2023-09-01T20:35:17.268261 34211] Config: (default) hash_dir = true
+[2023-09-01T20:35:17.268261 34211] Config: (default) ignore_headers_in_manifest = 
+[2023-09-01T20:35:17.268261 34211] Config: (default) ignore_options = 
+[2023-09-01T20:35:17.268261 34211] Config: (default) inode_cache = false
+[2023-09-01T20:35:17.268261 34211] Config: (default) keep_comments_cpp = false
+[2023-09-01T20:35:17.268261 34211] Config: (default) limit_multiple = 0.8
+[2023-09-01T20:35:17.268261 34211] Config: (environment) log_file = /Users/chikachan/Development/nitka_test/main.build/ccache-34203.txt
+[2023-09-01T20:35:17.268261 34211] Config: (default) max_files = 0
+[2023-09-01T20:35:17.268261 34211] Config: (default) max_size = 5.0G
+[2023-09-01T20:35:17.268261 34211] Config: (default) path = 
+[2023-09-01T20:35:17.268261 34211] Config: (default) pch_external_checksum = false
+[2023-09-01T20:35:17.268261 34211] Config: (default) prefix_command = 
+[2023-09-01T20:35:17.268261 34211] Config: (default) prefix_command_cpp = 
+[2023-09-01T20:35:17.268261 34211] Config: (default) read_only = false
+[2023-09-01T20:35:17.268261 34211] Config: (default) read_only_direct = false
+[2023-09-01T20:35:17.268261 34211] Config: (default) recache = false
+[2023-09-01T20:35:17.268261 34211] Config: (default) run_second_cpp = true
+[2023-09-01T20:35:17.268261 34211] Config: (environment) sloppiness = include_file_mtime, include_file_ctime
+[2023-09-01T20:35:17.268261 34211] Config: (default) stats = true
+[2023-09-01T20:35:17.268261 34211] Config: (default) temporary_dir = /Users/chikachan/Library/Caches/Nuitka/ccache/tmp
+[2023-09-01T20:35:17.268261 34211] Config: (default) umask = 
+[2023-09-01T20:35:17.268399 34211] Command line: /Users/chikachan/Library/Caches/Nuitka/downloads/ccache/v4.2.1/ccache /usr/bin/clang -o static_src/MainProgram.o -c -std=c11 -fvisibility=hidden -fwrapv -pipe -w -fvisibility=hidden -fvisibility-inlines-hidden --target=arm64-apple-macos10.9 -O3 -D_XOPEN_SOURCE -D__NUITKA_NO_ASSERT__ -D_NUITKA_STANDALONE -D_NUITKA_ONEFILE_MODE -D_NUITKA_ONEFILE_TEMP_BOOL -D_NUITKA_CONSTANTS_FROM_MACOS_SECTION -D_NUITKA_FROZEN=141 -D_NUITKA_EXE -I/Library/Frameworks/Python.framework/Versions/3.11/include/python3.11 -I. -I/Users/chikachan/Development/nitka_test/venv/lib/python3.11/site-packages/nuitka/build/include -I/Users/chikachan/Development/nitka_test/venv/lib/python3.11/site-packages/nuitka/build/static_src static_src/MainProgram.c
+[2023-09-01T20:35:17.268423 34211] Hostname: MacBookPro.local
+[2023-09-01T20:35:17.268429 34211] Working directory: /Users/chikachan/Development/nitka_test/main.build
+[2023-09-01T20:35:17.268435 34211] Compiler type: clang
+[2023-09-01T20:35:17.268657 34211] Source file: static_src/MainProgram.c
+[2023-09-01T20:35:17.268669 34211] Object file: static_src/MainProgram.o
+[2023-09-01T20:35:17.268712 34211] Trying direct lookup
+[2023-09-01T20:35:17.269150 34211] Looking for result name in /Users/chikachan/Library/Caches/Nuitka/ccache/4/2/e8oeontjt4u00oemop7kbbj858psfbaM
+[2023-09-01T20:35:17.305978 34208] Got result name from manifest
+[2023-09-01T20:35:17.306058 34208] Reading result /Users/chikachan/Library/Caches/Nuitka/ccache/b/d/d0hrjnftgul72311vfmfnnbe0k1k318R
+[2023-09-01T20:35:17.306166 34206] Got result name from manifest
+[2023-09-01T20:35:17.306189 34211] Got result name from manifest
+[2023-09-01T20:35:17.306179 34207] Got result name from manifest
+[2023-09-01T20:35:17.306198 34209] Got result name from manifest
+[2023-09-01T20:35:17.306237 34210] Got result name from manifest
+[2023-09-01T20:35:17.306287 34208] Reading embedded entry #0 .o (29224 bytes)
+[2023-09-01T20:35:17.306305 34208] Writing to __loader.o
+[2023-09-01T20:35:17.306355 34206] Reading result /Users/chikachan/Library/Caches/Nuitka/ccache/2/0/45muere3dt7jvaol0jq5tc1e639l0h4R
+[2023-09-01T20:35:17.306367 34207] Reading result /Users/chikachan/Library/Caches/Nuitka/ccache/3/9/42rs8mf78g4nb3c1npqmqe4r9n5ntioR
+[2023-09-01T20:35:17.306458 34209] Reading result /Users/chikachan/Library/Caches/Nuitka/ccache/8/1/edhb81c1fruhhlqn425iibrk0kcp6hmR
+[2023-09-01T20:35:17.306474 34208] Succeeded getting cached result
+[2023-09-01T20:35:17.306489 34208] Result: cache hit (direct)
+[2023-09-01T20:35:17.306533 34206] Reading embedded entry #0 .o (3976 bytes)
+[2023-09-01T20:35:17.306544 34206] Writing to __constants.o
+[2023-09-01T20:35:17.306562 34207] Reading embedded entry #0 .o (336 bytes)
+[2023-09-01T20:35:17.306572 34207] Writing to __helpers.o
+[2023-09-01T20:35:17.306672 34209] Reading embedded entry #0 .o (10344 bytes)
+[2023-09-01T20:35:17.306683 34209] Writing to module.__main__.o
+[2023-09-01T20:35:17.306909 34210] Reading result /Users/chikachan/Library/Caches/Nuitka/ccache/d/c/6ccivlq9v9ppdpo2p74p033pekdt958R
+[2023-09-01T20:35:17.306924 34208] Acquired lock /Users/chikachan/Library/Caches/Nuitka/ccache/b/d/stats.lock
+[2023-09-01T20:35:17.307020 34206] Succeeded getting cached result
+[2023-09-01T20:35:17.307040 34206] Result: cache hit (direct)
+[2023-09-01T20:35:17.307122 34210] Reading embedded entry #0 .o (9992 bytes)
+[2023-09-01T20:35:17.307135 34210] Writing to module.tkinter-preLoad.o
+[2023-09-01T20:35:17.307225 34206] Acquired lock /Users/chikachan/Library/Caches/Nuitka/ccache/2/0/stats.lock
+[2023-09-01T20:35:17.307226 34211] Reading result /Users/chikachan/Library/Caches/Nuitka/ccache/8/c/8a34ii5sttst5nbhqka0o3lk69p2lkmR
+[2023-09-01T20:35:17.307253 34209] Succeeded getting cached result
+[2023-09-01T20:35:17.307255 34207] Succeeded getting cached result
+[2023-09-01T20:35:17.307270 34209] Result: cache hit (direct)
+[2023-09-01T20:35:17.307276 34207] Result: cache hit (direct)
+[2023-09-01T20:35:17.307412 34211] Reading embedded entry #0 .o (10232 bytes)
+[2023-09-01T20:35:17.307425 34211] Writing to static_src/MainProgram.o
+[2023-09-01T20:35:17.307458 34210] Succeeded getting cached result
+[2023-09-01T20:35:17.307476 34210] Result: cache hit (direct)
+[2023-09-01T20:35:17.307669 34209] Acquired lock /Users/chikachan/Library/Caches/Nuitka/ccache/8/1/stats.lock
+[2023-09-01T20:35:17.307745 34207] Acquired lock /Users/chikachan/Library/Caches/Nuitka/ccache/3/9/stats.lock
+[2023-09-01T20:35:17.307926 34210] Acquired lock /Users/chikachan/Library/Caches/Nuitka/ccache/d/c/stats.lock
+[2023-09-01T20:35:17.307940 34211] Succeeded getting cached result
+[2023-09-01T20:35:17.307957 34211] Result: cache hit (direct)
+[2023-09-01T20:35:17.308099 34208] Releasing lock /Users/chikachan/Library/Caches/Nuitka/ccache/b/d/stats.lock
+[2023-09-01T20:35:17.308112 34211] Acquired lock /Users/chikachan/Library/Caches/Nuitka/ccache/8/c/stats.lock
+[2023-09-01T20:35:17.308134 34206] Releasing lock /Users/chikachan/Library/Caches/Nuitka/ccache/2/0/stats.lock
+[2023-09-01T20:35:17.308156 34208] Unlink /Users/chikachan/Library/Caches/Nuitka/ccache/b/d/stats.lock
+[2023-09-01T20:35:17.308361 34206] Unlink /Users/chikachan/Library/Caches/Nuitka/ccache/2/0/stats.lock
+[2023-09-01T20:35:17.308453 34207] Releasing lock /Users/chikachan/Library/Caches/Nuitka/ccache/3/9/stats.lock
+[2023-09-01T20:35:17.308538 34210] Releasing lock /Users/chikachan/Library/Caches/Nuitka/ccache/d/c/stats.lock
+[2023-09-01T20:35:17.308539 34207] Unlink /Users/chikachan/Library/Caches/Nuitka/ccache/3/9/stats.lock
+[2023-09-01T20:35:17.308592 34210] Unlink /Users/chikachan/Library/Caches/Nuitka/ccache/d/c/stats.lock
+[2023-09-01T20:35:17.308598 34209] Releasing lock /Users/chikachan/Library/Caches/Nuitka/ccache/8/1/stats.lock
+[2023-09-01T20:35:17.308666 34209] Unlink /Users/chikachan/Library/Caches/Nuitka/ccache/8/1/stats.lock
+[2023-09-01T20:35:17.308719 34211] Releasing lock /Users/chikachan/Library/Caches/Nuitka/ccache/8/c/stats.lock
+[2023-09-01T20:35:17.308760 34211] Unlink /Users/chikachan/Library/Caches/Nuitka/ccache/8/c/stats.lock
+[2023-09-01T20:35:17.354103 34212] === CCACHE master.971f1183 STARTED =========================================
+[2023-09-01T20:35:17.354103 34212] Config: (default) absolute_paths_in_stderr = false
+[2023-09-01T20:35:17.354103 34212] Config: (default) base_dir = 
+[2023-09-01T20:35:17.354103 34212] Config: (environment) cache_dir = /Users/chikachan/Library/Caches/Nuitka/ccache
+[2023-09-01T20:35:17.354103 34212] Config: (default) compiler = 
+[2023-09-01T20:35:17.354103 34212] Config: (default) compiler_check = mtime
+[2023-09-01T20:35:17.354103 34212] Config: (default) compiler_type = auto
+[2023-09-01T20:35:17.354103 34212] Config: (default) compression = true
+[2023-09-01T20:35:17.354103 34212] Config: (default) compression_level = 0
+[2023-09-01T20:35:17.354103 34212] Config: (default) cpp_extension = 
+[2023-09-01T20:35:17.354103 34212] Config: (default) debug = false
+[2023-09-01T20:35:17.354103 34212] Config: (default) debug_dir = 
+[2023-09-01T20:35:17.354103 34212] Config: (default) depend_mode = false
+[2023-09-01T20:35:17.354103 34212] Config: (default) direct_mode = true
+[2023-09-01T20:35:17.354103 34212] Config: (default) disable = false
+[2023-09-01T20:35:17.354103 34212] Config: (default) extra_files_to_hash = 
+[2023-09-01T20:35:17.354103 34212] Config: (default) file_clone = false
+[2023-09-01T20:35:17.354103 34212] Config: (default) hard_link = false
+[2023-09-01T20:35:17.354103 34212] Config: (default) hash_dir = true
+[2023-09-01T20:35:17.354103 34212] Config: (default) ignore_headers_in_manifest = 
+[2023-09-01T20:35:17.354103 34212] Config: (default) ignore_options = 
+[2023-09-01T20:35:17.354103 34212] Config: (default) inode_cache = false
+[2023-09-01T20:35:17.354103 34212] Config: (default) keep_comments_cpp = false
+[2023-09-01T20:35:17.354103 34212] Config: (default) limit_multiple = 0.8
+[2023-09-01T20:35:17.354103 34212] Config: (environment) log_file = /Users/chikachan/Development/nitka_test/main.build/ccache-34203.txt
+[2023-09-01T20:35:17.354103 34212] Config: (default) max_files = 0
+[2023-09-01T20:35:17.354103 34212] Config: (default) max_size = 5.0G
+[2023-09-01T20:35:17.354103 34212] Config: (default) path = 
+[2023-09-01T20:35:17.354103 34212] Config: (default) pch_external_checksum = false
+[2023-09-01T20:35:17.354103 34212] Config: (default) prefix_command = 
+[2023-09-01T20:35:17.354103 34212] Config: (default) prefix_command_cpp = 
+[2023-09-01T20:35:17.354103 34212] Config: (default) read_only = false
+[2023-09-01T20:35:17.354103 34212] Config: (default) read_only_direct = false
+[2023-09-01T20:35:17.354103 34212] Config: (default) recache = false
+[2023-09-01T20:35:17.354103 34212] Config: (default) run_second_cpp = true
+[2023-09-01T20:35:17.354103 34212] Config: (environment) sloppiness = include_file_mtime, include_file_ctime
+[2023-09-01T20:35:17.354103 34212] Config: (default) stats = true
+[2023-09-01T20:35:17.354103 34212] Config: (default) temporary_dir = /Users/chikachan/Library/Caches/Nuitka/ccache/tmp
+[2023-09-01T20:35:17.354103 34212] Config: (default) umask = 
+[2023-09-01T20:35:17.354264 34212] Command line: /Users/chikachan/Library/Caches/Nuitka/downloads/ccache/v4.2.1/ccache /usr/bin/clang -o static_src/CompiledFunctionType.o -c -std=c11 -fvisibility=hidden -fwrapv -pipe -w -fvisibility=hidden -fvisibility-inlines-hidden --target=arm64-apple-macos10.9 -O3 -D_XOPEN_SOURCE -D__NUITKA_NO_ASSERT__ -D_NUITKA_STANDALONE -D_NUITKA_ONEFILE_MODE -D_NUITKA_ONEFILE_TEMP_BOOL -D_NUITKA_CONSTANTS_FROM_MACOS_SECTION -D_NUITKA_FROZEN=141 -D_NUITKA_EXE -I/Library/Frameworks/Python.framework/Versions/3.11/include/python3.11 -I. -I/Users/chikachan/Development/nitka_test/venv/lib/python3.11/site-packages/nuitka/build/include -I/Users/chikachan/Development/nitka_test/venv/lib/python3.11/site-packages/nuitka/build/static_src static_src/CompiledFunctionType.c
+[2023-09-01T20:35:17.354289 34212] Hostname: MacBookPro.local
+[2023-09-01T20:35:17.354294 34212] Working directory: /Users/chikachan/Development/nitka_test/main.build
+[2023-09-01T20:35:17.354300 34212] Compiler type: clang
+[2023-09-01T20:35:17.354418 34212] Source file: static_src/CompiledFunctionType.c
+[2023-09-01T20:35:17.354426 34212] Object file: static_src/CompiledFunctionType.o
+[2023-09-01T20:35:17.354462 34212] Trying direct lookup
+[2023-09-01T20:35:17.354911 34212] Looking for result name in /Users/chikachan/Library/Caches/Nuitka/ccache/9/1/89a2gvi37usi53gsv2t1qa0nmp83iiuM
+[2023-09-01T20:35:17.383212 34212] Got result name from manifest
+[2023-09-01T20:35:17.383608 34212] Reading result /Users/chikachan/Library/Caches/Nuitka/ccache/6/8/0ej5veb5t3kkbrcak887hp8gc7q8at4R
+[2023-09-01T20:35:17.384094 34212] Reading embedded entry #0 .o (1047000 bytes)
+[2023-09-01T20:35:17.384108 34212] Writing to static_src/CompiledFunctionType.o
+[2023-09-01T20:35:17.385921 34212] Succeeded getting cached result
+[2023-09-01T20:35:17.385953 34212] Result: cache hit (direct)
+[2023-09-01T20:35:17.386040 34212] Acquired lock /Users/chikachan/Library/Caches/Nuitka/ccache/6/8/stats.lock
+[2023-09-01T20:35:17.386516 34212] Releasing lock /Users/chikachan/Library/Caches/Nuitka/ccache/6/8/stats.lock
+[2023-09-01T20:35:17.386567 34212] Unlink /Users/chikachan/Library/Caches/Nuitka/ccache/6/8/stats.lock
